@@ -1,3 +1,8 @@
+---
+name: litd-grpc
+description: Reference for litd (Lightning Terminal) gRPC API in Go: managing accounts, baking macaroons, listing payments, and creating LNC sessions.
+---
+
 # litd gRPC — Accounts & LNC Sessions
 
 Reference for interacting with litd (Lightning Terminal daemon) gRPC API: managing accounts and LNC sessions, baking account-scoped macaroons, and listing account payments.
